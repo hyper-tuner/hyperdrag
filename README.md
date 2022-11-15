@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    <img alt="License" src="https://img.shields.io/github/license/hyper-tuner/hyper-tuner-cloud">
+    <img alt="License" src="https://img.shields.io/github/license/hyper-tuner/hyperdrag">
   </p>
 </div>
 
